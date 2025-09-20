@@ -44,7 +44,7 @@ Una vez iniciado el 'git init' en el repositorio master, ve a GitHub y crear un 
 y si quieres le agregas la descripción, lo demás por defecto. Una vez creado ello, te aparecerán líneas de comando
 donde indica cómo se puede crear un repositorio por comandos, pero hay uno que si importa para VINCULAR tu repositorio
 local con el de GitHub, y es algo similar a este -->
-- $ git remote add origin https://github.com/BelParia/CERSEU_Modulo_I.git
+- $ git remote add origin https://github.com/BelParia/CERCEU_Modulo_I.git  , A TI TE GENERARÁ OTRO dX
 Con esto puedes vincularlos y con ello ya estaría listo tu repositorio, se guardará localmente y vincluará con el GitHub.
 - $ git remote -v : para verificar el repositorio remote en GitHub
 
@@ -54,6 +54,8 @@ fue crear un tTokens (classic), con opción repo activa, y el Github te da un To
 te recomiendo preguntar a Chtgpt, o a mi Obsidian, ya que por aquí no te puedo llegar a guiar completamente.
 
 
--git push origin main: actaulizará todos los commits
+-git push origin main: actaulizará todos los commits, pero verifica mi obsidian, ya que tiene su orden y sus
+características. Siendo que el 'git push' es para únicamente subir aquello que localmente se tiene historiado 
+hacia el GitHub. 
 
 """
