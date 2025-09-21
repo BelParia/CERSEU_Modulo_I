@@ -14,7 +14,7 @@ entonces simplemente reemplazará el valor que se esté indicando.
 interesante es que si no existe ese key el programa te indicará un error (KeyError).
 
 ### Obtener nombres de los keys
-- sorted: te permite obtener los nombres de los keys de un diccionario, y lo entrega con formato lista.
+- sorted (variable): te permite obtener los nombres de los keys de un diccionario, y lo entrega con formato lista.
 - variable.values() : te permite obtener los valores de tu lista, pero mejor "list(variable.values())",
 para que no estes convirtiendo nada más y solo obtengas valores.
 - variable.keys() : tambien te permite obtener el nombre de los keys, pero debes guardarlo en una
