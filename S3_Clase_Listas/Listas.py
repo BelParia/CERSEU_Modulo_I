@@ -38,6 +38,7 @@ pero no lo puedes igualar a otra lista, muy raro lo sé, pero es así
 te arroja el último elemento de la lista
 -del variable[index]: este es el más usado para eliminar elementos en base al index de una lista
 -variable.remove(elemento): elimina un elemento de la lista, pero tienes que indicar específicamente
+-variable.set(): elimina los elementos repetidos de una lista.
 -variable.clear(): te permite limpiar todo elemento dentro de una lista
 
 -variable.reverse(): es un comando único que no necesita y no debe estar guardado en una varible
