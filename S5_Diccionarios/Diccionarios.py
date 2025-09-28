@@ -20,8 +20,8 @@ para que no estes convirtiendo nada más y solo obtengas valores.
 - variable.keys() : tambien te permite obtener el nombre de los keys, pero debes guardarlo en una
 varibale nueva. Pero te aparece en un tipo de dato conjunto "([])" que aún no lo vimos, pero para que
 sepas, asi que mejor toma el siguiente formato:
-- diccionario_keys = list(variable.keys()) : con esto conviertes ese datos conjunto a solo una lista,
-siendo igual a un sorted, asi que mejor sigue con sorted Dx.
+    - diccionario_keys = list(variable.keys()) : con esto conviertes ese datos conjunto a solo una lista,
+      siendo igual a un sorted, asi que mejor sigue con sorted Dx.
 
 ### Conversión de diccionarios a listas
 - variable_nueva = list(variable_diccionario) : te permitirá obtener una lista de los keys
